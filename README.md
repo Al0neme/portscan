@@ -31,3 +31,7 @@ cd portscan
 go build .
 ./portscan -i 127.0.0.1 -p - -t 100
 ```
+
+- 结果
+
+![](https://al0neme-staticfile.oss-cn-hangzhou.aliyuncs.com/static/202412011547935.png)
